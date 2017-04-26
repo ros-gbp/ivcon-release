@@ -1,3 +1,26 @@
+## ivcon (lunar) - 0.1.6-0
+
+The packages in the `ivcon` repository were released into the `lunar` distro by running `/usr/bin/bloom-release ivcon -r lunar -t lunar -n` on `Wed, 26 Apr 2017 23:50:45 -0000`
+
+The `ivcon` package was released.
+
+Version of package(s) in repository `ivcon`:
+
+- upstream repository: https://github.com/ros/ivcon.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.6-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## ivcon (kinetic) - 0.1.6-0
 
 The packages in the `ivcon` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic ivcon --edit` on `Tue, 12 Apr 2016 17:47:11 -0000`
