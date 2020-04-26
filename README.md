@@ -1,3 +1,26 @@
+## ivcon (noetic) - 0.1.7-1
+
+The packages in the `ivcon` repository were released into the `noetic` distro by running `/usr/bin/bloom-release ivcon --rosdistro noetic --track noetic` on `Sun, 26 Apr 2020 05:56:41 -0000`
+
+The `ivcon` package was released.
+
+Version of package(s) in repository `ivcon`:
+
+- upstream repository: https://github.com/ros/ivcon.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.7-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## ivcon (melodic) - 0.1.7-0
 
 The packages in the `ivcon` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y ivcon --rosdistro melodic --track melodic` on `Wed, 05 Sep 2018 06:12:46 -0000`
